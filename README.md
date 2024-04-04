@@ -1,2 +1,4 @@
-# Paper-Codes
-Code for published papers to support/comply with reproducible research standards.
+# Reproducibility Repository
+
+Simulation code for the paper "An Energy Stable High-Order Cut Cell Discontinuous Galerkin
+Method with State Redistribution for Wave Propagation"
